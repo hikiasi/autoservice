@@ -1,0 +1,1752 @@
+@media screen and (max-width:1300px){
+	.article-gallery{
+		width:calc(100% + 30px);
+		transform:translateX(0)
+	}
+}
+@media screen and (max-width:1200px){
+	.inner-page{
+		display:block
+	}
+	.widget-area{
+		width:100%;
+		margin-bottom:30px
+	}
+	.inner-page-content{
+		padding-left:0
+	}
+	.table-scrollbox{
+		overflow:auto!important
+	}
+	.advantages-item{
+		width:calc(50% - 30px)
+	}
+	.left-menu{
+		width:100%;
+		margin-bottom:30px
+	}
+	.left-menu-list{
+		max-width:100%
+	}
+	.left-menu-item-link,.left-menu-item .left-menu-item-link_dropdown{
+		min-height:100%;
+		font-size:14px;
+		padding:15px 10px
+	}
+	.dropdown-button:after{
+		top:21px;
+		right:15px
+	}
+	.header-info{
+		margin-left:0
+	}
+	.header-info-address{
+		display:none
+	}
+	.header-info-worktime{
+		display:none
+	}
+	.header-search{
+		margin-left:15px;
+		margin-right:15px
+	}
+	.menu-mobile-btn{
+		display:flex;
+		flex-direction:column;
+		align-items:center;
+		justify-content:center;
+		width:30px;
+		height:30px;
+		-webkit-appearance:none;
+		background-color:#fff;
+		text-align:center;
+		margin-top:-3px
+	}
+	.page-form-inner .section-bg{
+		left:50%;
+		width:100vw
+	}
+	.page-form{
+		padding:60px 0
+	}
+	.cta{
+		padding:100px 0
+	}
+	.cta-inspection{
+		margin-top:0
+	}
+	.page-price-form{
+		padding:100px 0
+	}
+	.page-worklist{
+		padding:100px 0
+	}
+	.page-worklist .section-bg{
+		left:50%;
+		width:100vw
+	}
+	.services-menu-nav__submenu-item{
+		align-items:flex-start;
+		height:25%
+	}
+	.services-menu-nav__submenu-item a{
+		padding:0 15px;
+		white-space:normal;
+		font-size:14px
+	}
+	.services-menu-nav__submenu-item p{
+		padding:0 15px
+	}
+	.services-menu-nav .services-menu-nav-small-text p:last-child{
+		margin-top:5px
+	}
+	.services-menu-nav .services-menu-nav-small-text{
+		padding-top:0
+	}
+	.submenu-slider-item-box .services-menu-nav__submenu-item{
+		display:block;
+		height:auto
+	}
+	.about-us-advantages-item{
+		width:calc(50% - 30px)
+	}
+	.prices-credit{
+		padding:100px 0
+	}
+	.complex-diagnostic-info{
+		padding:50px 0
+	}
+	.complex-diagnostic-info .section-bg{
+		left:50%
+	}
+	.engine-wash-workstages{
+		padding:100px 0
+	}
+	.engine-wash-workstages .section-bg{
+		left:50%;
+		width:100vw
+	}
+	.cars-avtobrands{
+		padding:20px 0
+	}
+	.cars-avtobrands .avto-brands-item{
+		width:calc(25% - 30px)
+	}
+	.vacancies-available-item-contacts-phones{
+		max-width:100%
+	}
+	.article-layout{
+		max-width:100%
+	}
+	.section.figure-bg{
+		padding:100px 0
+	}
+	.section.expand{
+		width:100%;
+		margin-left:0
+	}
+}
+@media screen and (max-width:992px){
+	h1,h2,.section-title>*{
+		font-size:40px
+	}
+	.section{
+		margin-bottom:50px
+	}
+	.section-big-title{
+		margin-bottom:15px
+	}
+	.section-big-title>*{
+		font-size:40px
+	}
+	.section-title{
+		margin-bottom:15px
+	}
+	.section-title h1{
+		font-size:40px
+	}
+	.section-title>*{
+		font-size:34px
+	}
+	.section-small-title{
+		margin-bottom:15px
+	}
+	.section-small-title>*{
+		font-size:40px
+	}
+	.section-subtitle{
+		margin-bottom:15px
+	}
+	.section-subtitle p{
+		font-size:20px
+	}
+	.table-slim{
+		width:900px
+	}
+	.avto-brands-item{
+		font-size:20px
+	}
+	.avto-brands-item{
+		width:calc(50% - 30px)
+	}
+	.page-table-services-line{
+		padding:15px 0
+	}
+	.page-table-services-name a{
+		font-size:16px
+	}
+	.page-table-services-price p{
+		font-size:16px
+	}
+	.page-table-services-btn .btn{
+		font-size:14px
+	}
+	.page-table-services-link a{
+		font-size:16px
+	}
+	.header-search{
+		display:flex;
+		justify-content:center;
+		padding-left:0;
+		padding-right:0;
+		padding-bottom:10px;
+		width:100%;
+		max-width:100%
+	}
+	.header-search input{
+		margin-bottom:0
+	}
+	.header-search .wpcf7-form-control-wrap{
+		margin-bottom:0
+	}
+	.page-seo-layout{
+		max-width:100%
+	}
+	.cta-layout{
+		flex-direction:column
+	}
+	.cta-title{
+		width:calc(100% - 30px);
+		padding-right:0;
+		margin-bottom:30px
+	}
+	.cta-body{
+		width:calc(100% - 30px)
+	}
+	.cta-phone{
+		justify-content:flex-start
+	}
+	.page-advantages-item{
+		width:calc(50% - 30px);
+		margin:30px 15px
+	}
+	.page-services-item{
+		width:calc(50% - 30px)
+	}
+	.page-prices-line{
+		padding:15px 0
+	}
+	.page-prices-name a{
+		font-size:16px
+	}
+	.page-prices-price p{
+		font-size:16px
+	}
+	.page-prices-btn .btn{
+		font-size:14px
+	}
+	.page-price-form{
+		padding:0
+	}
+	.page-price-form-layout{
+		flex-direction:column;
+		align-items:center
+	}
+	.page-price-form-info{
+		width:calc(100% - 30px);
+		max-width:100%;
+		margin-bottom:30px
+	}
+	.page-price-form-body{
+		margin-left:15px;
+		margin-right:15px
+	}
+	.page-worklist{
+		padding:0
+	}
+	.main-preview{
+		margin-top:20px
+	}
+	.main-preview-info{
+		margin-top:0
+	}
+	.main-preview-slider{
+		width:50%;
+		max-height:400px
+	}
+	.preview-slider-item img{
+		height:400px;
+		max-height:400px
+	}
+	.main-avtoservice{
+		padding-bottom:0
+	}
+	.main-avtoservice-layout{
+		flex-direction:column
+	}
+	.main-avtoservice-image{
+		display:flex;
+		width:calc(100% - 30px)
+	}
+	.main-avtoservice-image-big{
+		flex-basis:250px;
+		flex-grow:1;
+		position:static;
+		height:350px;
+		border:none;
+		margin-right:10px
+	}
+	.main-avtoservice-image-big img{
+		width:100%;
+		height:100%;
+		object-fit:cover
+	}
+	.main-avtoservice-image-small{
+		flex-basis:250px;
+		flex-grow:1;
+		position:static;
+		height:350px;
+		border:none
+	}
+	.main-avtoservice-image-small img{
+		width:100%;
+		height:100%;
+		object-fit:cover
+	}
+	.main-avtoservice-info{
+		width:calc(100% - 30px)
+	}
+	.main-avtoservice-info-bottom{
+		margin-left:0;
+		padding-left:0
+	}
+	.main-service-list-item{
+		height:200px
+	}
+	.main-service-list-item--big{
+		width:calc(100% - 20px)
+	}
+	.main-service-list-item--small{
+		width:calc(100% - 20px)
+	}
+	.main-price-layout{
+		flex-direction:column;
+		align-items:center
+	}
+	.main-price-info{
+		width:calc(100% - 30px);
+		max-width:100%
+	}
+	.main-price-form{
+		margin-left:15px;
+		margin-right:15px;
+		margin-top:40px
+	}
+	.main-brands{
+		padding:20px 0
+	}
+	.main-brands-title{
+		margin-bottom:15px
+	}
+	.main-brands-items{
+		margin-bottom:15px
+	}
+	.main-magazine-layout{
+		flex-direction:column
+	}
+	.main-magazine-image{
+		max-width:100%;
+		max-height:350px;
+		margin-top:20px;
+		order:1
+	}
+	.main-magazine-image img{
+		width:100%;
+		max-width:100%;
+		max-height:350px;
+		object-fit:cover
+	}
+	.main-magazine-info{
+		width:calc(100% - 30px);
+		max-width:100%
+	}
+	.main-clients{
+		padding-bottom:0
+	}
+	.main-clients .section-title{
+		margin-bottom:50px
+	}
+	.main-clients-bg{
+		display:none
+	}
+	.services-menu-nav{
+		width:100%
+	}
+	.services-menu-nav-item{
+		display:block;
+		text-align:center;
+		width:100%;
+		height:auto
+	}
+	.services-menu-nav-item-text{
+		background:#24282b;
+		color:#fff
+	}
+	.services-menu-nav-item-text.active{
+		background:#686868
+	}
+	.services-menu-nav__submenu.active{
+		display:block;
+		max-height:250px;
+		overflow:auto
+	}
+	.services-menu-nav__submenu{
+		display:none;
+		position:static;
+		width:100%
+	}
+	.services-menu-nav__submenu-lists{
+		display:block
+	}
+	.services-menu-nav__submenu-item p{
+		text-align-last:left
+	}
+	.services-menu-nav__submenu-bg{
+		display:none
+	}
+	.services-menu-nav .services-menu-nav-small-text p{
+		text-align:left
+	}
+	.submenu-slider{
+		height:auto
+	}
+	.submenu-slider-item-box{
+		display:block;
+		height:auto
+	}
+	.submenu-slider-item-box .services-menu-nav__submenu-item{
+		text-align:left
+	}
+	.submenu-slider .slick-prev{
+		top:auto;
+		left:0;
+		transform:translateX(0%)
+	}
+	.submenu-slider .slick-next{
+		right:0;
+		transform:translateX(0%)
+	}
+	.submenu-slider .slick-list{
+		padding-bottom:0
+	}
+	.services-offers-slider-item-desc{
+		bottom:0;
+		height:auto
+	}
+	.services-offers-slider-item-bg img{
+		width:100%;
+		height:300px;
+		object-fit:cover;
+		margin:0 auto
+	}
+	.about-us-spec{
+		margin-top:0
+	}
+	.about-us-spec .section-bg{
+		display:none
+	}
+	.about-us-spec-layout{
+		padding-top:0
+	}
+	.about-us-spec-info{
+		width:calc(100% - 30px);
+		min-height:auto;
+		box-shadow:none;
+		padding:0
+	}
+	.about-us-spec-items{
+		width:calc(100% - 30px);
+		justify-content:center;
+		padding-top:30px
+	}
+	.about-us-equipment-info{
+		width:calc(100% - 30px);
+		margin-bottom:50px
+	}
+	.about-us-equipment-slider{
+		width:calc(100% - 30px)
+	}
+	.prices-advantages-item{
+		width:calc(100% - 30px);
+		margin-top:15px;
+		margin-bottom:15px
+	}
+	.prices-avto-brands-item{
+		display:flex;
+		width:calc(25% - 30px);
+		min-height:calc(100px - 30px)
+	}
+	.prices-avto-brands-item-small-text{
+		display:flex;
+		flex-direction:column;
+		justify-content:center;
+		margin-left:10px
+	}
+	.price-offers-slider-text-title p{
+		font-size:28px
+	}
+	.price-offers-slider-text-desc p{
+		font-size:18px
+	}
+	.stocks-list-text-title p{
+		font-size:28px
+	}
+	.stocks-list-text-desc p{
+		font-size:18px
+	}
+	.contacts-info-company{
+		width:calc(100% - 30px)
+	}
+	.contacts-info-company-social{
+		width:100%
+	}
+	.contacts-info-map{
+		width:calc(100% - 30px);
+		height:400px;
+		margin-bottom:30px
+	}
+	.contacts-magazine-photo-big{
+		width:calc(100% - 30px);
+		max-height:400px
+	}
+	.contacts-magazine-photo-small{
+		display:none
+	}
+	.alignment-price-btn{
+		width:calc(100% - 30px)
+	}
+	.alignment-price-item{
+		width:calc(100% - 30px)
+	}
+	.maybe-services-item{
+		width:calc(100% - 30px);
+		margin-top:15px;
+		margin-bottom:15px;
+		min-height:150px
+	}
+	.comp-diagnostic-tasks .section-title{
+		max-width:100%
+	}
+	.seo-lists.style1 .seo-lists-left,.seo-lists.style2 .seo-lists-left{
+		width:calc(100% - 30px);
+		padding-right:0
+	}
+	.comp-diagnostic-tasks-list{
+		width:calc(100% - 30px)
+	}
+	.complex-diagnostic-info{
+		padding:20px 0
+	}
+	.locksmith-works-titles{
+		width:calc(100% - 30px);
+		padding-right:0
+	}
+	.locksmith-works-list{
+		width:calc(100% - 30px)
+	}
+	.bodywork-works-layout{
+		flex-direction:column
+	}
+	.bodywork-works-img{
+		max-width:calc(100% - 30px);
+		height:400px;
+		margin-bottom:30px
+	}
+	.bodywork-works-info{
+		padding-left:0
+	}
+	.bodywork-works .section-desc-title{
+		margin-bottom:15px
+	}
+	.child-services-item{
+		width:calc(33.33333% - 30px)
+	}
+	.siblings-services-item{
+		width:calc(33.33333% - 30px)
+	}
+	.electrician-services-item--big{
+		width:calc(100% - 30px)
+	}
+	.electrician-services-item--small{
+		width:calc(100% - 30px)
+	}
+	.tirefitting-cost-btn{
+		width:calc(100% - 30px)
+	}
+	.tirefitting-cost-item{
+		width:calc(100% - 30px)
+	}
+	.carwash-spec-titles{
+		width:calc(100% - 30px);
+		padding-right:0
+	}
+	.carwash-spec-list{
+		width:calc(100% - 30px)
+	}
+	.engine-wash-workstages{
+		padding:0
+	}
+	.main-advantages.style1 .advantages-item{
+		width:calc(50% - 30px)
+	}
+	.cars-avtobrands .avto-brands-item{
+		width:calc(33.33333% - 30px)
+	}
+	.cars-prices-layout{
+		overflow-x:scroll;
+		overflow-y:hidden
+	}
+	ul.cars-prices-menu-list{
+		width:300px;
+		padding:50px 10px
+	}
+	.cars-prices-menu-item{
+		padding:15px 20px
+	}
+	.cars-prices-tables{
+		width:800px
+	}
+	.cars-prices.style1 .cars-prices-tables{
+		width:880px
+	}
+	.car-prices-layout{
+		overflow-x:scroll;
+		overflow-y:hidden
+	}
+	.car-prices-menu-list{
+		width:300px;
+		padding:50px 10px
+	}
+	.car-prices-menu-item{
+		padding:15px 20px
+	}
+	.car-prices-tables{
+		width:880px
+	}
+	.vacancies-preview-layout{
+		position:relative
+	}
+	.vacancies-preview .pagination a.home,.vacancies-preview .pagination span.middle{
+		color:#fff
+	}
+	.vacancies-preview .section-subtitle p{
+		color:#fff
+	}
+	.vacancies-preview .section-title>*{
+		color:#fff
+	}
+	.vacancies-preview-titles{
+		padding:20px;
+		width:calc(100% - 30px);
+		background:rgba(36,40,43,.52);
+		color:#fff
+	}
+	.vacancies-preview-bg{
+		position:absolute;
+		z-index:-1;
+		top:0;
+		left:0;
+		width:calc(100% - 30px);
+		height:100%
+	}
+	.vacancies-available-item-contacts-phones a{
+		width:calc(100% - 30px)
+	}
+	.articles-list-item{
+		width:calc(50% - 30px)
+	}
+	.article-gallery-item{
+		width:calc(100% - 30px)
+	}
+	.footer-navigation{
+		padding-left:0;
+		padding-right:0
+	}
+}
+@media screen and (max-width:768px){
+	h1,h2,.section-title>*{
+		font-size:32px;
+		text-align:center
+	}
+	.btn-mt,input[type=submit].btn-mt{
+		margin-top:25px
+	}
+	.section-big-title>*{
+		font-size:32px;
+		text-align:center
+	}
+	.section-title h1{
+		font-size:32px;
+		text-align:center;
+		color:#fff
+	}
+	.section-title>*{
+		font-size:26px
+	}
+	.section-small-title>*{
+		font-size:32px;
+		text-align:center
+	}
+	.section-subtitle p{
+		font-size:18px
+	}
+	.section-desc{
+		margin-bottom:15px
+	}
+	.section-desc p{
+		font-size:14px
+	}
+	.check-list li{
+		font-size:14px
+	}
+	.check-list-dots li{
+		font-size:14px
+	}
+	.slick-prev,.slick-next{
+		width:40px;
+		height:40px
+	}
+	.slick-prev{
+		left:0;
+		transform:translate(0,-100%)
+	}
+	.page-preview{
+		margin-top:30px
+	}
+	.page-preview-layout{
+		padding:25px 15px
+	}
+	.page-preview .section-title{
+		width:100%;
+		margin-left:0;
+		margin-top:40px
+	}
+	.page-preview .section-subtitle{
+		max-width:100%;
+		text-align:center
+	}
+	.policy-preview,.articles-preview{
+		margin-bottom:30px
+	}
+	.advantages-item{
+		width:calc(100% - 30px)
+	}
+	.page-table-services-layout{
+		overflow-y:hidden;
+		overflow-x:scroll
+	}
+	.page-table-services-line{
+		width:800px
+	}
+	.left-menu{
+		padding-top:30px
+	}
+	.page-pagination.pagination{
+		display:none
+	}
+	.header-info-phone{
+		display:none
+	}
+	.header-social{
+		display:none
+	}
+	.header-callback{
+		margin-left:auto
+	}
+	.mb-fix{
+		padding-top:0
+	}
+	.page-form-layout{
+		margin-top:0
+	}
+	.page-form-body form{
+		max-width:100%
+	}
+	.cta{
+		padding:60px 0
+	}
+	.cta .form-title{
+		text-align:center
+	}
+	.cta-item{
+		justify-content:center
+	}
+	.cta-phone{
+		justify-content:center
+	}
+	.page-prices-layout{
+		overflow-y:hidden;
+		overflow-x:scroll
+	}
+	.page-prices-line{
+		width:600px
+	}
+	.page-cost .section-desc p{
+		text-align:center
+	}
+	.page-cost-info-titles{
+		width:calc(100% - 30px)
+	}
+	.page-cost-info-contacts{
+		width:calc(100% - 30px);
+		text-align:center
+	}
+	.page-cost-info-price p{
+		justify-content:center
+	}
+	.main-preview-layout{
+		position:relative
+	}
+	.main-preview-info{
+		position:absolute;
+		z-index:10;
+		top:0;
+		left:0;
+		width:100%;
+		max-width:calc(100% - 30px);
+		padding:20px 0;
+		transform:translate(-50% -50%);
+		background-color:rgba(0,0,0,.6)
+	}
+	.main-preview-info>*{
+		color:#fff;
+		text-align:center
+	}
+	.main-preview-info p{
+		color:#fff;
+		text-align:center
+	}
+	.main-preview-slider{
+		width:calc(100% - 30px)
+	}
+	.preview-slider .slick-prev,.preview-slider .slick-next{
+		width:60px;
+		height:50px
+	}
+	.main-avtoservice-image-big{
+		height:250px
+	}
+	.main-avtoservice-image-small{
+		height:250px
+	}
+	.main-avtoservice-info-top{
+		padding-top:20px
+	}
+	.main-brands{
+		padding:50px 0
+	}
+	.main-brands-items{
+		justify-content:center;
+		margin-top:20px
+	}
+	.main-clients{
+		margin-bottom:100px
+	}
+	.main-clients-items{
+		padding:0 45px
+	}
+	.services-menu-nav__submenu-item p{
+		white-space:normal
+	}
+	.avto-brands-choice{
+		flex-direction:column
+	}
+	.avto-brands-choice-manufacturer{
+		max-width:calc(100% - 30px);
+		margin-bottom:15px
+	}
+	.avto-brands-choice-model{
+		max-width:calc(100% - 30px);
+		margin-bottom:15px
+	}
+	.avto-brands-choice-btn{
+		max-width:calc(100% - 30px);
+		margin-bottom:15px
+	}
+	.about-us-advantages-item{
+		width:calc(100% - 30px)
+	}
+	.about-us-approach-info{
+		width:calc(100% - 30px);
+		padding-right:0;
+		margin-bottom:30px
+	}
+	.about-us-approach-list{
+		width:calc(100% - 30px)
+	}
+	.about-us-approach-list-title{
+		margin-bottom:15px
+	}
+	.about-us-approach-list-title p{
+		font-size:22px;
+		text-align:center
+	}
+	.about-us-spec-info-name{
+		margin-bottom:15px
+	}
+	.about-us-spec-info-desc{
+		margin-bottom:20px
+	}
+	.about-us-certificate .section-title{
+		margin-bottom:50px
+	}
+	.prices-avto-brands-items{
+		max-height:600px
+	}
+	.prices-avto-brands-item{
+		width:calc(33.33333% - 30px)
+	}
+	.prices-credit{
+		padding:0;
+		margin-bottom:50px
+	}
+	.prices-credit-info{
+		width:calc(100% - 30px);
+		margin-bottom:30px;
+		padding-right:0
+	}
+	.prices-credit-info .section-desc{
+		margin-bottom:30px
+	}
+	.prices-credit-list{
+		width:calc(100% - 30px)
+	}
+	.price-offers .section-title{
+		margin-bottom:50px
+	}
+	.gallery-portfolio .section-small-title{
+		margin-bottom:50px
+	}
+	.contacts-info-company-address{
+		margin-bottom:20px
+	}
+	.contacts-info-company-address-text p{
+		font-size:16px
+	}
+	.contacts-info-company-worktime{
+		margin-bottom:20px
+	}
+	.contacts-info-company-worktime-text p{
+		font-size:16px
+	}
+	.contacts-info-company-phone{
+		margin-bottom:20px
+	}
+	.contacts-info-company-phone-links a{
+		font-size:16px
+	}
+	.contacts-info-company-mail{
+		margin-bottom:20px
+	}
+	.contacts-info-company-mail-text p,.contacts-info-company-mail-text a{
+		font-size:16px
+	}
+	.contacts-info-company-social-text p{
+		font-size:16px
+	}
+	.contacts-info-company-social-links a{
+		font-size:16px
+	}
+	.info-layout{
+		max-width:100%
+	}
+	.alignment-spec-layout{
+		max-width:100%
+	}
+	.alignment-equipment-layout{
+		max-width:100%
+	}
+	.alignment-workdesc>.section-subtitle{
+		max-width:100%
+	}
+	.alignment-workdesc-item{
+		max-width:100%;
+		min-height:350px;
+		padding:30px;
+		margin-bottom:30px;
+		text-align:center
+	}
+	.alignment-workdesc-item:nth-child(2n){
+		padding:30px
+	}
+	.alignment-workdesc-item-img{
+		max-width:100%
+	}
+	.seo-lists-left{
+		width:calc(100% - 30px);
+		margin-bottom:30px
+	}
+	.seo-lists-right{
+		width:calc(100% - 30px)
+	}
+	.comp-diagnostic-tasks-list-title p{
+		text-align:center
+	}
+	.complex-diagnostic-info{
+		padding:0;
+		margin-bottom:50px
+	}
+	.locksmith-tasks-layout{
+		max-width:100%
+	}
+	.locksmith-works .section-title{
+		max-width:100%
+	}
+	.locksmith-works-list-title p{
+		text-align:center
+	}
+	.bodywork-tasks-layout{
+		max-width:100%
+	}
+	.bodywork-spec-layout{
+		max-width:100%
+	}
+	.child-services-item{
+		width:calc(50% - 30px)!important
+	}
+	.sibling-services-item{
+		width:calc(50% - 30px)!important
+	}
+	.electrician-tasks-layout{
+		max-width:100%
+	}
+	.electrician-spec-titles{
+		width:calc(100% - 30px);
+		padding-right:0
+	}
+	.electrician-spec-list{
+		width:calc(100% - 30px)
+	}
+	.electrician-spec-list-title p{
+		text-align:center
+	}
+	.electrician-services-item-title{
+		margin-bottom:15px
+	}
+	.electrician-services-item-list li{
+		margin-bottom:15px
+	}
+	.tirefitting-tasks-layout{
+		max-width:100%
+	}
+	.tirefitting-spec-titles{
+		width:calc(100% - 30px);
+		padding-right:0
+	}
+	.tirefitting-spec-list{
+		width:calc(100% - 30px)
+	}
+	.tirefitting-spec-list-title p{
+		text-align:center
+	}
+	.tirefitting-services-item{
+		width:calc(50% - 30px)
+	}
+	.tirefitting-cost .section-desc{
+		max-width:100%
+	}
+	.alignment-price .accordeon-tables{
+		margin-bottom:30px
+	}
+	.tirefitting-cost-item-title{
+		margin-bottom:15px
+	}
+	.vulcanization-worklist-item{
+		margin-bottom:20px
+	}
+	.vulcanization-worklist-lastitem-title{
+		margin-bottom:15px
+	}
+	.carwash-spec-list-title p{
+		text-align:center
+	}
+	.carwash-services-item{
+		width:calc(50% - 30px)
+	}
+	.engine-wash-preview-list{
+		margin-bottom:15px
+	}
+	.engine-wash-preview-list-title{
+		margin-bottom:15px
+	}
+	.info-img-info{
+		width:calc(100% - 30px);
+		padding-right:0
+	}
+	.info-img-photo{
+		width:calc(100% - 30px)
+	}
+	.main-advantages.style1 .advantages-item{
+		width:calc(100% - 30px)
+	}
+	.document-phys-preview-list{
+		margin-bottom:15px
+	}
+	.document-phys-reason-list{
+		margin-bottom:15px
+	}
+	.document-phys-reason-list-title{
+		margin-bottom:15px
+	}
+	.cars-avtobrands .avto-brands-item{
+		width:calc(50% - 30px)
+	}
+	.cars-avtoservice-titles{
+		width:calc(100% - 30px);
+		margin-bottom:30px
+	}
+	.cars-avtoservice-list{
+		width:calc(100% - 30px)
+	}
+	.car-reasons-text{
+		margin-bottom:15px
+	}
+	.vacancies-conditions{
+		padding:20px 0
+	}
+	.vacancies-conditions .check-list{
+		width:calc(100% - 30px);
+		margin-bottom:20px
+	}
+	.vacancies-available-item{
+		padding:10px
+	}
+	.vacancies-available-item{
+		width:calc(100% - 30px)
+	}
+	.footer{
+		border-bottom:1px solid rgba(148,157,174,.25)
+	}
+	.footer-top-layout{
+		padding:20px 15px;
+		flex-direction:column;
+		align-items:flex-start;
+		justify-content:flex-start
+	}
+	.footer-company{
+		display:flex;
+		flex-wrap:wrap;
+		align-items:center;
+		justify-content:center;
+		width:100%;
+		margin-left:0;
+		margin-right:0;
+		max-width:100%
+	}
+	.footer-company-logo{
+		width:100%
+	}
+	.footer-company-logo a{
+		text-align:center
+	}
+	.footer-company-desc{
+		margin-top:0;
+		order:1
+	}
+	.footer-company-btn{
+		display:flex;
+		justify-content:center;
+		margin-bottom:15px;
+		margin-left:15px;
+		margin-right:15px
+	}
+	.footer-company-social{
+		display:flex;
+		justify-content:center;
+		margin-left:15px;
+		margin-right:15px;
+		margin-bottom:15px
+	}
+	.footer-navigation{
+		width:100%;
+		margin-left:0;
+		margin-right:0;
+		padding:0
+	}
+	.footer-navigation-items{
+		margin-left:-15px;
+		margin-right:-15px
+	}
+	.footer-navigation-search{
+		margin-top:0;
+		width:100%;
+		padding:20px 0
+	}
+	.footer-contacts{
+		margin-left:0;
+		margin-right:0
+	}
+	.footer-bottom-layout{
+		flex-direction:column;
+		padding-top:20px;
+		padding-bottom:20px
+	}
+	.footer-bottom-info p,.footer-bottom-info a{
+		font-size:12px;
+		line-height:18px
+	}
+	.services-item{
+		width:calc(100%/1 - 30px)
+	}
+	.stocks-list-item{
+		width:calc(100% - 30px);
+		text-align:center
+	}
+	.stocks-list-text{
+		padding:30px
+	}
+	.grid-page-services-items{
+		display:-ms-grid;
+		display:grid;
+	}
+	.page-servise-childe:nth-of-type(4){
+		-ms-grid-column:span 2;
+		grid-column:span 2
+	}
+	.grid-page-services-items .page-servise-childe:nth-of-type(7){
+		-ms-grid-column:span 1;
+		grid-column:span 1
+	}
+}
+@media screen and (max-width:576px){
+	.btn,input[type=submit].btn{
+		max-width:100%;
+		font-size:16px;
+		padding:14px 25px
+	}
+	.section{
+		margin-bottom:40px
+	}
+	.home .entry-content{
+		display:flex;
+		flex-direction:column
+	}
+	.home .main-advantages.section{
+		padding:40px 0;
+		margin-bottom:0;
+		order:0
+	}
+	.home .main-avtoservice{
+		order:1
+	}
+	.home .main-service-list{
+		order:3
+	}
+	.home .main-price{
+		order:4
+	}
+	.home .main-brands{
+		order:5
+	}
+	.home .main-magazine{
+		order:6
+	}
+	.home .main-clients{
+		order:7
+	}
+	.form-title{
+		text-align:center;
+		padding:0 30px
+	}
+	.page-preview-layout{
+		min-height:300px
+	}
+	.avto-brands-item{
+		font-size:18px
+	}
+	.search-form{
+		margin-bottom:10px;
+		max-width:100%
+	}
+	.page-table-services-line{
+		padding:10px 0
+	}
+	.header-layout{
+		justify-content:space-between
+	}
+	.header-logo{
+		width:140px;
+		height:30px
+	}
+	.header-logo{
+		display:flex;
+		align-items:center
+	}
+	.header-info{
+		display:none
+	}
+	.header-callback{
+		margin-left:15px
+	}
+	.header-callback .btn{
+		font-size:14px;
+		padding:10px 25px
+	}
+	.page-form .section-bg{
+		display:none
+	}
+	.page-form-body-item{
+		flex-direction:column
+	}
+	.page-form-body-item .wpcf7-form-control-wrap{
+		width:calc(100%/1 - 30px)
+	}
+	.page-form-body-item:nth-child(3){
+		margin-bottom:30px
+	}
+	.page-form-body-item .btn{
+		width:calc(100%/1 - 30px)
+	}
+	.page-form-body-item .form-aggree{
+		width:calc(100%/1 - 30px);
+		margin-bottom:25px
+	}
+	.fancybox-slide--html .fancybox-close-small{
+		top:0;
+		right:0
+	}
+	.cta .section-bg{
+		display:none
+	}
+	.cta .section-bg.invert{
+		display:none
+	}
+	.cta .wpcf7-form-control-wrap{
+		max-width:100%;
+		margin-bottom:15px
+	}
+	.cta .form .btn{
+		max-width:100%
+	}
+	.cta-item{
+		flex-wrap:wrap
+	}
+	.cta-phone-link{
+		padding-right:0
+	}
+	.page-advantages-item{
+		width:calc(100% - 30px);
+		text-align:center
+	}
+	.page-advantages-item-img{
+		background:linear-gradient(to right,#f9f9f9 50%,#fff,#fff 50%,#fff 100%)
+	}
+	.page-services-item{
+		width:calc(100% - 30px);
+		justify-content:center
+	}
+	.page-prices-line{
+		padding:10px 0
+	}
+	.page-prices-name{
+		width:calc(33.33333% - 30px)
+	}
+	.page-prices-price{
+		width:calc(33.33333% - 30px)
+	}
+	.page-prices-btn{
+		width:calc(33.33333% - 30px)
+	}
+	.page-prices-bottom-btn .btn{
+		font-size:14px
+	}
+	.page-prices-phone-link a{
+		font-size:20px
+	}
+	.page-price-form .section-bg{
+		display:none
+	}
+	.page-price-form-info{
+		padding-top:0
+	}
+	.page-worklist .section-bg{
+		display:none
+	}
+	.page-worklist-box{
+		padding:10px 20px
+	}
+	.page-worklist-table{
+		top:55px
+	}
+	.worklist-table tr>td:first-child{
+		padding-left:20px
+	}
+	.page-cost-list{
+		padding:10px 20px
+	}
+	.page-cost-list-table{
+		top:55px
+	}
+	.page-cost-table tr>td:first-child{
+		padding-left:20px
+	}
+	.main-avtoservice-image-big{
+		margin-right:0
+	}
+	.main-avtoservice-image-small{
+		display:none
+	}
+	.main-service-list-item{
+		height:150px
+	}
+	.main-price-info{
+		padding-top:0
+	}
+	.main-clients .section-title{
+		margin-bottom:20px
+	}
+	.main-clients{
+		margin-bottom:50px
+	}
+	.main-clients-item img{
+		height:100%
+	}
+	.services-menu-nav-item-text{
+		padding:15px
+	}
+	.services-menu-nav__submenu-item{
+		padding:15px 0
+	}
+	.submenu-slider-item-box{
+		padding-top:0
+	}
+	.services-offers .section-title{
+		margin-bottom:50px
+	}
+	.avto-brands-choice{
+		margin-bottom:15px
+	}
+	.about-us-advantages-item{
+		min-height:100px
+	}
+	.about-us-advantages-item-big-text{
+		top:0
+	}
+	.about-us-advantages-item-big-text p{
+		font-size:48px
+	}
+	.about-us-advantages-item-small-text p{
+		font-size:16px
+	}
+	.about-us-spec-info-name-title p{
+		font-size:16px
+	}
+	.about-us-spec-info-name-sub-title p{
+		font-size:14px
+	}
+	.about-us-spec-info-desc p{
+		font-size:14px
+	}
+	.prices-avto-brands-items{
+		max-height:620px
+	}
+	.prices-avto-brands-item{
+		width:calc(50% - 30px);
+		margin:0 15px
+	}
+	.prices-credit .section-bg{
+		display:none
+	}
+	.price-offers-slider-item{
+		height:250px
+	}
+	.gallery-portfolio-block{
+		margin-bottom:30px
+	}
+	.alignment-spec .section-desc{
+		margin-bottom:30px
+	}
+	.alignment-spec .check-list{
+		max-height:300px
+	}
+	.complex-diagnostic-preview-bg{
+		height:300px
+	}
+	.complex-diagnostic-info .section-bg{
+		display:none
+	}
+	.locksmith-works-list .check-list{
+		max-height:300px
+	}
+	.locksmith-works-list .check-list li{
+		max-width:100%
+	}
+	.reglament-preview-bg{
+		height:300px
+	}
+	.child-services-item{
+		width:calc(100% - 30px)!important
+	}
+	.siblings-services-item{
+		width:calc(100% - 30px)!important
+	}
+	.painting-preview-bg{
+		height:300px
+	}
+	.painting-workstages-list-title{
+		margin-bottom:15px
+	}
+	.painting-workstages .check-list-dots{
+		margin-bottom:15px
+	}
+	.ignition-preview-bg{
+		height:300px
+	}
+	.tirefitting-services-item{
+		width:calc(100% - 30px)
+	}
+	.tirefitting-cost-list{
+		padding:10px 20px
+	}
+	.tirefitting-cost-list-table{
+		top:55px
+	}
+	.vulcanization-preview-bg{
+		height:300px
+	}
+	.vulcanization-worklist-lastitem{
+		max-height:100%
+	}
+	.vulcanization-worklist-lastitem-title p{
+		font-size:18px
+	}
+	.carwash-services-item{
+		width:calc(100% - 30px)
+	}
+	.engine-wash-preview-bg{
+		height:300px
+	}
+	.engine-wash-workstages .section-bg{
+		display:none
+	}
+	.inspection-services-item{
+		width:calc(100% - 30px)
+	}
+	.document-phys-preview-bg{
+		height:300px
+	}
+	.cars-avtobrands{
+		padding:0
+	}
+	.cars-avtobrands .section-bg{
+		display:none
+	}
+	.cars-avtobrands .avto-brands-item{
+		width:calc(100% - 30px)
+	}
+	.car-preview-bg{
+		height:300px
+	}
+	.articles-tags-item{
+		border-bottom:2px solid #fff
+	}
+	.articles-tags-item.active{
+		border-bottom:2px solid #000
+	}
+	.articles-tags-item:hover{
+		border-bottom:2px solid #000
+	}
+	.articles-tags-item a{
+		font-size:16px
+	}
+	.articles-tags-item a span{
+		font-size:16px
+	}
+	.articles-list-item{
+		width:calc(100% - 30px)
+	}
+	.articles-list-item-title a{
+		font-size:20px
+	}
+	.footer-company{
+		flex-direction:column;
+		align-items:flex-start;
+		margin-bottom:20px
+	}
+	.footer-company-logo a{
+		text-align:left
+	}
+	.footer-company-desc{
+		width:100%;
+		max-width:100%;
+		margin-bottom:15px
+	}
+	.footer-company-btn{
+		margin-left:0;
+		margin-right:0
+	}
+	.footer-company-social{
+		margin-left:-15px;
+		margin-right:-15px
+	}
+	.form-box{
+		padding:15px;
+		padding-bottom:60px
+	}
+	.popup-form form .fancybox-slide--html .fancybox-close-small{
+		top:0;
+		right:0;
+		padding:10px
+	}
+	.section.figure-bg{
+		padding:40px 0
+	}
+	.cta-title{
+		margin-bottom:0
+	}
+	.seo-img-layout>div{
+		width:calc(100%/1 - 30px);
+		margin:30px 0
+	}
+	.contacts-info-company-phone a:nth-of-type(2){
+		margin-left:34px
+	}
+	.grid-page-services-items{
+		-ms-grid-columns:1fr;
+		grid-template-columns:1fr
+	}
+	.grid-page-services-items .page-servise-childe{
+		-ms-grid-column:span 1!important;
+		grid-column:span 1!important
+	}
+}
+@media screen and (max-width:425px){
+	h1,h2,.section-title>*{
+		font-size:26px
+	}
+	.section-big-title>*{
+		font-size:26px
+	}
+	.section-title h1{
+		font-size:26px
+	}
+	.section-title>*{
+		font-size:22px
+	}
+	.section-small-title>*{
+		font-size:26px
+	}
+	.section-subtitle p{
+		font-size:16px
+	}
+	.avto-brands-item{
+		width:calc(100% - 30px)
+	}
+	.page-price-form-body{
+		margin-top:20px;
+		padding:0;
+		box-shadow:none
+	}
+	.main-price-form{
+		margin-top:20px;
+		padding:0;
+		box-shadow:none
+	}
+	.contacts-info-company-address-text p{
+		font-size:14px
+	}
+	.contacts-info-company-worktime-text p{
+		font-size:14px
+	}
+	.contacts-info-company-phone-links a{
+		font-size:14px
+	}
+	.contacts-info-company-mail-text p,.contacts-info-company-mail-text a{
+		font-size:14px
+	}
+	.contacts-info-company-social-text p{
+		font-size:14px
+	}
+	.contacts-info-company-social-links a{
+		font-size:14px
+	}
+	.maybe-services-item{
+		min-height:120px
+	}
+	ul.mh{
+		max-height:100%
+	}
+	ul.mh li{
+		max-width:100%
+	}
+	.tirefitting-spec-list .check-list{
+		max-height:520px
+	}
+	.tirefitting-spec-list .check-list li{
+		max-width:100%
+	}
+	.carwash-spec-list .check-list{
+		max-height:100%
+	}
+	.carwash-spec-list .check-list li{
+		max-width:100%
+	}
+}
+@media screen and (max-width:360px){
+	.services-menu-nav__submenu-item a{
+		text-align:left
+	}
+	.prices-avto-brands-item-small-text a{
+		font-size:12px
+	}
+	.stocks-list-text{
+		padding:20px;
+		padding-left:0
+	}
+	.alignment-price-line-name p{
+		font-size:14px
+	}
+	.alignment-price-line-price p{
+		font-size:14px
+	}
+	.tirefitting-cost-line-name p{
+		font-size:14px
+	}
+	.tirefitting-cost-line-price p{
+		font-size:14px
+	}
+	.tirefitting-cost-line-fullname p{
+		font-size:14px
+	}
+	.services-item-title p{
+		font-size:16px
+	}
+	.services-item-desc p{
+		font-size:14px
+	}
+}
+@media screen and (max-width:320px){
+	.contacts-info-company-mail-text p,.contacts-info-company-mail-text a{
+		font-size:13px
+	}
+	.footer-navigation-items{
+		flex-direction:column
+	}
+	.footer-navigation-item{
+		text-align:left;
+		margin-bottom:20px
+	}
+	.footer-navigation-item-nav ul li{
+		text-align:left
+	}
+}
